@@ -14,7 +14,7 @@ venv\Scripts\activate
 pip install django
 4. **Create a Superuser** (for accessing Django Admin):
 python manage.py createsuperuser
-5. **Run the Development Server**:
-python manage.py runserver
+5. **Run the Development Server**:  
+python manage.py runserver  
 Navigate to: http://127.0.0.1:8000/
 Django's development server runs by default on 127.0.0.1 (which is the local IP address) and uses port 8000. When you run the command python manage.py runserver, the development server starts, and you can access your project by opening your web browser and entering the above URL.
