@@ -8,8 +8,7 @@ This guide provides instructions for setting up and running a Django project on 
 ## Setup Instructions
 1. **Clone the Repository**
 2. **Create a Virtual Environment (Optional but Recommended)**:
-python -m venv venv
-
+python -m venv venv   
 venv\Scripts\activate
 3. **Install Django**:
 pip install django
